@@ -1,4 +1,4 @@
-# Go React Postgres Heroku
+# Go React Postgres Docker Heroku
 
 
 A simple BoilerPlate to get you started with:
