@@ -1,11 +1,12 @@
-# GoReactPgHeroku
+# Go React Postgres Heroku
 
 
-A simple App for education purposes done with:
-  - "Go" for the backend 
-  - "React" for  the front end 
-  - "Postgres" for the Database
-  - "Heroku" For deployment 
+A simple BoilerPlate to get you started with:
+  - **Go** for the backend 
+  - **React** for  the front end 
+  - **Postgres** for the Database
+  - **Docker** for containerization
+  - **Heroku**" For deployment 
 
 
 Following the articles from Dean Baker @deandemo :
