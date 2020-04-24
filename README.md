@@ -1,4 +1,4 @@
-# -GoReactPgHeroku
+# GoReactPgHeroku
 
 
 A simple App for education purposes done with:
